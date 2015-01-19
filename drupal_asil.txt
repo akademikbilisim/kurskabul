@@ -1,14 +1,14 @@
-Hilal Seda Yıldız
-Hüseyin İlhan
-Erdal Ayan
-Gülay Mehmetlioğlu
-Emre Engin
-Barış Sezen
-Umut Tunalı
-Dursun Çimen
-Hasan Uçar
-Ömer Faruk Demirer
-Halime Kardaş
-Elif Tepe
-Sami Çiçekli
-Ali Tat
+hilal-seda-yıldız
+hüseyin-ilhan
+erdal-ayan
+gülay-mehmetlioğlu
+emre-engin
+barış-sezen
+umut-tunalı
+dursun-çimen
+hasan-uçar
+ömer-faruk-demirer
+halime-kardaş
+elif-tepe
+sami-çiçekli
+demet-ergenoğlu
