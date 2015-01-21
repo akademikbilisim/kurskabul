@@ -14,7 +14,6 @@ Faruk Güler
 Mehmet Akif Ateş
 Taner Candemir
 Ahmet İzgördü
-Ahmet Ilgın
 Ömer Çör
 Burak Sivrikaya
 Büşra Günay
@@ -29,3 +28,5 @@ Abdullah Tuncel
 Altay Paçacıoğlu
 Ozan Arslan
 Önder Yılmaz
+Enam Kırgeç
+Gülşah Köse
