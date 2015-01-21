@@ -20,7 +20,8 @@ Asiller
 +Mustafa Tekkoyun
 +Oğulcan Ali Cantürk
 +İ.Mert Erenoğlu
-Peyman Öter
++Peyman Öter
++İsmet Batansu
 +
 +
 +Yedekler
@@ -31,10 +32,8 @@ Peyman Öter
 +İzzet Okan Bişgin
 +Onur Ağtaş
 +Hatice Güney
-+mustafa konuk
 +Ege Savcı
 +kaan aykut
 +Mesut Aydemir
 +Cenk Anıl Bahçevan
-+İsmet Batansu
 +Andaç Öztürk
