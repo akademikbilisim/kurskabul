@@ -1,39 +1,39 @@
 Asiller
-+=======
-+Ziya UZ
-+Furkan URAL
-+Mehmet Yüksel
-+Nuran KISI
-+Özge Çınkır
-+Başak Çakmaktepe
-+Oğuzhan Karacüllü
-+Çağkan TAŞCI
-+Berkay Tuncel
-+Halit Keser
-+Berkan Acar
-+AYBERK ÖREROĞLU
-+Arif TÜRKEL
-+Tarık Bulut
-+Çağlar Gül
-+özgür efe
-+Büşra Akbey
-+Mustafa Tekkoyun
-+Oğulcan Ali Cantürk
-+İ.Mert Erenoğlu
-+Peyman Öter
-+İsmet Batansu
-+
-+
-+Yedekler
-+========
-+Selim Sürücü
-+Mehmet Dik
-+mehmet tuğrul ZOROĞLU
-+İzzet Okan Bişgin
-+Onur Ağtaş
-+Hatice Güney
-+Ege Savcı
-+kaan aykut
-+Mesut Aydemir
-+Cenk Anıl Bahçevan
-+Andaç Öztürk
+=======
+Ziya UZ
+Furkan URAL
+Mehmet Yüksel
+Nuran KISI
+Özge Çınkır
+Başak Çakmaktepe
+Oğuzhan Karacüllü
+Çağkan TAŞCI
+Berkay Tuncel
+Halit Keser
+Berkan Acar
+AYBERK ÖREROĞLU
+Arif TÜRKEL
+Tarık Bulut
+Çağlar Gül
+özgür efe
+Büşra Akbey
+Mustafa Tekkoyun
+Oğulcan Ali Cantürk
+İ.Mert Erenoğlu
+Peyman Öter
+İsmet Batansu
+Yiğit Yeksin
+
+Yedekler
+========
+Selim Sürücü
+Mehmet Dik
+mehmet tuğrul ZOROĞLU
+İzzet Okan Bişgin
+Onur Ağtaş
+Hatice Güney
+Ege Savcı
+kaan aykut
+Mesut Aydemir
+Cenk Anıl Bahçevan
+Andaç Öztürk
