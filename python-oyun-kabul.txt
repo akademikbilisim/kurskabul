@@ -2,11 +2,9 @@ Ahmet Doğan
 Ahmet Kaşif
 Ahmet Seha Çelenk
 Alican Şensoy
-Aylin Gümüş
-Azmi C. Özgen
 Ceylan Gözütok
 Çetin Atalan
-ekrem arslan
+Ekrem arslan
 Erfan Gholampour
 Erkan Kaynak
 Fatih Kürşad GÜNDÜZ
@@ -15,7 +13,6 @@ Mustafa Temiz
 Ömer Faruk Çoban
 Özge Şen
 Rıdvan Dinç
-Saffet Menteşe
 Simge Özboyabatlı
 Şehriban kübra MİNAS
 Ümit Duran
@@ -24,3 +21,5 @@ Hatice ERDAĞI
 Ceyda BAYRAKTAR
 Fırat SEZEL
 Doğukan KOTAN
+Salih Can ÖZEL
+Ege GÜZEL
