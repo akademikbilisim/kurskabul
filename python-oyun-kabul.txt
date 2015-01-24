@@ -6,7 +6,6 @@ Ceylan Gözütok
 Çetin Atalan
 Ekrem arslan
 Erfan Gholampour
-Erkan Kaynak
 Fatih Kürşad GÜNDÜZ
 Gökay Güneş
 Mustafa Temiz
@@ -23,3 +22,4 @@ Fırat SEZEL
 Doğukan KOTAN
 Salih Can ÖZEL
 Ege GÜZEL
+Kerem KARAKÖSE
