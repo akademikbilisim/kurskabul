@@ -20,10 +20,8 @@ mustafa gökhan tan
 Yiğitcan Kaya
 Hande Yetkin
 Gökay Atar
-Kenan YALDIZ
 Gülsüm Cebeci Yenginerler
 Abdullah GENÇ
-Sinan ŞAHİN
 Nesimi ACARCA
 Ali EREN
 Özkan ÖZMEN
@@ -50,11 +48,12 @@ Mümin Ferhat YAKUT
 Elif YAYLA
 Nurseda ÖZDEMİR
 Gözde Özden
+Tarık Çoşkun Kurt
+Murat Kırmızıgül
+Fatih Can Kurnaz
 
 Yedek Liste
 ======
-Murat Kırmızıgül
-Fatih Can Kurnaz
 Yunus Emre ŞAHİN
 Furkan AVCI
 MELİH AŞICI
