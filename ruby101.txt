@@ -23,6 +23,7 @@ Peyman Öter
 İsmet Batansu
 Yiğit Yeksin
 Ege Savcı
+Kaan Aykut
 
 Yedekler
 ========
@@ -31,7 +32,6 @@ Mehmet Dik
 mehmet tuğrul ZOROĞLU
 Onur Ağtaş
 Hatice Güney
-kaan aykut
 Mesut Aydemir
 Cenk Anıl Bahçevan
 Andaç Öztürk
