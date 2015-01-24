@@ -34,7 +34,6 @@ Hasan Hüseyin Işık
 İlknur Kaynarca
 Mahmut Savur
 Mehmet Turşucu
-Metehan Güler
 Merve Erişen
 Meryem Gelen
 Murat Kılınç
@@ -55,6 +54,7 @@ Simge Hepkarşı
 Tolga Kızılkaya
 Turgay Baş
 Umut Ali Arslan
+Umut Bayğut
 Yahya İltüzer
 Yakup Çelen
 Yılmaz Gümüştekin
