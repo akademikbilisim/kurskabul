@@ -5,7 +5,6 @@ Emin Tufan Çetin
 Ahmet Erkoç
 Havva Feyza Mete
 Hana Kamer
-Sevcan Eşim
 Eftun Türkşanlı
 Berk ECER
 Özgür KAVAK
@@ -27,4 +26,5 @@ Maksat Yalkabov
 Nuri Burak Aydın
 Hamza KAYA 
 İrem Ercan
-Hande Kahyaoğlu
+Mesut Gülecen
+Fatma Yazıcı
