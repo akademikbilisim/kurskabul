@@ -1,4 +1,3 @@
-Burçak Yılmaz
 Kerem Kemaneci
 Cantekin Çelikhası
 Aysun Çiftçi
@@ -30,3 +29,4 @@ Esra Keleş
 Batuhan Çıkrıkcı
 Zozan Yacan
 Ümit Karakuş
+Elif Nurdan Gökalp
