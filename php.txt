@@ -3,7 +3,6 @@ Ali Burak Aydın
 Arzu Kurban
 Arzu Pargan
 Atakan Çavuş
-Atakan Şahin
 Ayşe Can
 Ayşe Elif Yoldaş
 Ayşen Biricik Karakaş
@@ -12,6 +11,7 @@ Berrin Atiker
 Betül Ünlü
 Büşra Fulya Yüksel
 Cem Berk Öngay
+Cem Tekinoğlu
 Çağatay Uysal
 Demet Karamehmet
 Elifnur Olgun
@@ -42,6 +42,7 @@ Nazlıcan Kılıç
 Nurullah Yılmaz
 Oktay Karanfil
 Otağ Orçun Hangül
+Ömer Edip Aslantaş
 Özgül Gözaçanlar
 Pembe Begül Güner
 Pınar Berksun
@@ -56,7 +57,7 @@ Turgay Baş
 Umut Ali Arslan
 Umut Bayğut
 Yahya İltüzer
-Yakup Çelen
 Yılmaz Gümüştekin
 Yılmaz Yolalan
 Zerrin Bidiş
+Zafer Pehlivan
