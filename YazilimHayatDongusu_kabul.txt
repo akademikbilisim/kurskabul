@@ -7,7 +7,6 @@ Nursel Gökçe
 Ergün Eekan
 Bilge Başaltun Kara
 Ebru İrge
-Beşire Kaynar
 ufuk çakmak
 Ahmet AKŞİT
 İbrahim ESEN
@@ -15,11 +14,9 @@ Mithat Raşit Özçıkrıkcı
 kübra kürkcü
 Ayşe Erçin
 İrem Onargan
-Mazhar ARI
 Selçuk ÖZTÜRK
 Zeliha Melis Bastıyalı
 Oğuz Kent
-Bora Temel
 Elçin Duygu Karaca
 Yonca Ağtaş
 Gökhan Mahir Doğan
@@ -30,3 +27,4 @@ Batuhan Çıkrıkcı
 Zozan Yacan
 Ümit Karakuş
 Elif Nurdan Gökalp
+Fikret Çalıkoğlu
