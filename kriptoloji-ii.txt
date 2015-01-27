@@ -25,7 +25,6 @@
 2476	Merve	YILDIZ
 1606	Haydar Altuğ	Yıldırım
 188	Büşra	Yılmaz
-455	ömer	yılmaz
 2031	Eren	Yüksel
 519	Mustafa	canturkm@itu.edu.tr
 1362	Tayfun	tayfuncesur35@hotmail.com
