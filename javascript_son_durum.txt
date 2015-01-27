@@ -1,0 +1,60 @@
+*Javascript kursu kabul listesi son durum (27 Ocak - 16:05)*
+
+iptaller Tercih1: tolga-ozkan, ozan-celik, erkan-kutlumuþ, ismet-safa-develi, konul-memmedova, nur-gizem-ak
+iptaller Tercih2: mustafa-ozdemir, mehmet-ugur, begum-erden, mert-kahyaoglu, fadime-ilisulu, onur-atak
+ilaveler (listede ilk 2 isim): ozgur-halil-ince (#477), mustafa-kaya (#3202, 2. tercihi olan 3D'ye kabul almýþ, deðiþtirmek istiyor)
+teyid veya iptal mesajý atmayanlar (listeye dahil edilmedi): serdar-aydar, nejat-gursel
+tercih 2 kabulleri (listede son 3 isim): rahime-ozgonul, ali-tuncer, burak-uysal
+
+Liste:
+
+mustafa-kaya 
+ozgur-halil-ince 
+emre-muratoglu
+umut-gumeli
+alper-bicer
+ahmet-urganci
+tanju-yildiz 
+ibrahim-kocaayak 
+mustafa-murat-topcu 
+alper-sumer 
+ozgur-acar 
+tugay-pamuk 
+melek-kahraman 
+emine-guven 
+duygu-mersin 
+gulistan-boylu 
+ibrahim-erdogan 
+onurcan-turkmen 
+perihan-imamoglu 
+merve-kiziltaþ 
+huseyin-karaoglu 
+muhammet-cukur 
+ahmet-yayla 
+hakan-diril 
+ilhan-aydinli 
+ali-kilic 
+ekrem-kandemir 
+murat-dindar 
+cansu-saatci 
+okan-davut 
+kubilay-cicek 
+mete-alanli 
+emre-kirmizi 
+arda-guven 
+asli-kilincli 
+fatih-furkan-arslan 
+oguzhan-karanfil 
+ali-acer 
+ozge-yuceer 
+ismail-ercan 
+kadir-ay 
+mehmet-nurullah-nergiz 
+yusuf-gok 
+ismail-bicer 
+oktay-yarar 
+eda-un
+rahime-ozgonul 
+ali-tuncer 
+burak-uysal
+
