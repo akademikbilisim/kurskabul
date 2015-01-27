@@ -1,41 +1,40 @@
-ALI,INCE
-ALPAY,GUNAL
-AYCA,EVCI
-AYSE MELIKE,YURTOGLU
-BEKTAS,BOZKURT
-BILAL,TASDELEN
-BUKET,DEPREN
-BULENT,KAYI
+ALI,INCE                        T
+ALPAY,GUNAL                     T
+AYCA,EVCI                       T
+AYSE MELIKE,YURTOGLU            T
+BEKTAS,BOZKURT                  T
+BILAL,TASDELEN                  T
+BUKET,DEPREN                    T
+BULENT,KAYI                     T
 BURAK,KIYAK
-BURAK,KORCUKLU
-BURAK,KARABABA
-BURCIN,AKALIN
-CAGDAS,DURAN
-CEYHUN,ANDAC
-DORUKHAN,ALTINAY
-EDANUR,GULARMAN
-EGE,SERTCETIN
-EREN,UTKU
-ESRA,SERTSU
-FURKAN,KAAN
-GAMZE N.,POLAT
-ISMAIL,BASLAR
+BURAK,KORCUKLU                  T
+BURAK,KARABABA                  T
+BURCIN,AKALIN                   T
+CAGDAS,DURAN                    T
+CEYHUN,ANDAC                    T
+DORUKHAN,ALTINAY                T
+EDANUR,GULARMAN                 T
+EGE,SERTCETIN                   T
+EREN,UTKU                       T
+ESRA,SERTSU                     T
+FURKAN,KAAN                     T
+GAMZE N.,POLAT                  T
+ISMAIL,BASLAR                   T
 KAGAN,ONBASILAR
-KAZIM EREN,IPEK
-MEHMET SAKIR,KUTLU
-MURAT DENIS,OZGOVDE
-MUSTAFA,BAYDOVAN
-OMER,HANCI
-ONUR,KAPLAN
-OZCAN,YARIMDUNYA
-OZGE,CELIK
-SELIM,SURUCU
+KAZIM EREN,IPEK                 T
+MEHMET SAKIR,KUTLU              T
+MURAT DENIS,OZGOVDE             T
+MUSTAFA,BAYDOVAN                T
+OMER,HANCI                      T
+ONUR,KAPLAN                     T
+OZCAN,YARIMDUNYA                T
+SELIM,SURUCU                    T
 SEMIH,KIRDINLI
-TANSU,AKSAN
-TUGCE,SIRIN
-UMIT,CANAKCI
-UTKU,OZSAN
-Y. EMRE,KARABULUT
-YASAR,CELEP
-YASIN,ARSLAN
-YELIZ,TANEROGLU
+TANSU,AKSAN                     T
+TUGCE,SIRIN                     T
+UMIT,CANAKCI                    T
+UTKU,OZSAN                      T
+Y. EMRE,KARABULUT               T
+YASAR,CELEP                     T
+YASIN,ARSLAN                    T
+YELIZ,TANEROGLU                 T
