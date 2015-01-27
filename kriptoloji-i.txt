@@ -98,3 +98,4 @@
 3255	Onur	YORULMAZ
 2507	ZARİF	ZUBAROĞLU
 2432	Caner	BAŞER
+      Ezgi Sert 
