@@ -12,8 +12,6 @@ Kübra Aslan
 Faruk Güler
 İrem Doğan
 Mehmet Akif Ateş
-Taner Candemir
-Ahmet İzgördü
 Ömer Çör
 Burak Sivrikaya
 Büşra Günay
@@ -36,8 +34,9 @@ Ali Gülbaşı
 Halil Karaca
 Halit Enes Büyüktepe
 Hasan Hüseyin Uzar
-Ömer Gök
 Alican Yaldız
 Aykut Karakaya
 Orkun Aydın
 Nur Hilal Taşkın
+Onur Özturan
+Egemen Dincer

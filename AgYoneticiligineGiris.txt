@@ -3,12 +3,14 @@ Abdullah Emre,Taş
 Adil,Alkan
 Ahmet,Önge
 Akıb,Çetin
+Akın,Dinler
 Ali İhsan,Yürekli
 Ali Mert,Avcı
 Ali,Aydın
 Ali,Balcı
 Ali,Durmuş
 Alper,Erdin
+Asadullah,Aktaş
 Aydın,Karabaş
 Aysun,ŞakiroğLu
 Batuhan Asır,Vural
@@ -50,7 +52,6 @@ Hüseyin,Sakin
 İzzet Can,Yağcı
 İzzet,Yağmahan
 Kemal,Kaya
-Mehmet Bahattin,Ataol
 Mehtap,Karakuş
 Meltem,Öztürk
 Merve,Özdamar
@@ -67,6 +68,7 @@ Ramazan,Avcıl
 Sami,Koca
 Samir,Çakır
 Sare,Durgun
+Selcan,Korkut
 Şeyma,Özmen
 Suat,Bıyık
 Şükran,Telli

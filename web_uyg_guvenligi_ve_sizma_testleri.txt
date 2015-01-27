@@ -21,8 +21,6 @@ Yiğitcan Kaya
 Hande Yetkin
 Gökay Atar
 Gülsüm Cebeci Yenginerler
-Abdullah GENÇ
-Nesimi ACARCA
 Ali EREN
 Özkan ÖZMEN
 Hüseyin Aslanoğlu
@@ -49,6 +47,10 @@ Gözde Özden
 Tarık Çoşkun Kurt
 Murat Kırmızıgül
 Fatih Can Kurnaz
+Elif Selen Şendoğan
+Gamze Karadağ
+Dilek ÖNER
+Nuray Selcen Korkut
 
 Yedek Liste
 ======
