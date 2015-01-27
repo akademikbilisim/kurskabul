@@ -84,7 +84,6 @@
 3197	CEYDA GAMZE	TOSUN
 69	Anıl Osman	Tur
 3115	Mehmet Cengiz	TURANLI
-2227	Hüseyin	Türkmenoğlu
 1949	AHMET	ÜLGER
 1979	Emrullah	Uluışık
 876	Fethi	Ulusoy
