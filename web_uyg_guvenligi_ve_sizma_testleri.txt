@@ -13,7 +13,6 @@ Celal DİKİCİ
 Sait Murat Giray
 Murat KARA
 Beklan İşeri
-İhsan KÜÇÜKAYCAN
 Ahmet Doğan
 Oğuz İnal
 mustafa gökhan tan
@@ -51,6 +50,10 @@ Elif Selen Şendoğan
 Gamze Karadağ
 Dilek ÖNER
 Nuray Selcen Korkut
+Ramiz İlker Tuna
+Osman Keleş
+Ozhan Sisic
+
 
 Yedek Liste
 ======
