@@ -61,7 +61,6 @@
 1977	Nazlı	NAZLI
 1654	Merve	Öğünç
 1654	Merve	Öğünç
-1987	Selin	ÖNAL
 2043	Mustafa Nevzat	ÖRNEK
 3124	Zeyneddin	Öz
 1996	Muhammed Ahmet	Özay
