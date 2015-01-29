@@ -1,6 +1,7 @@
 979	Ozan	Alpkaya
 418	Emine Merve	Arslan
 853	Cihan	Ateş
+289	Aycan	ATLI
 2429	Enes	AYDIN
 507	Sevdenur	Baloglu
 1736	Beyza	Bozdemir
