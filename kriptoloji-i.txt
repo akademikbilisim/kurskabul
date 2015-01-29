@@ -11,7 +11,6 @@
 1975	Ali	Aşkın
 1093	Hüseyin Utku	ASLAN
 3232	KADRİ	ATLI
-2429	Enes	AYDIN
 94	Ezgi	AYDOĞDU
 1789	Sencer Umut	Balkan
 2821	Ahmet	Bayram
