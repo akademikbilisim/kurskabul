@@ -1,6 +1,7 @@
 979	Ozan	Alpkaya
 418	Emine Merve	Arslan
 853	Cihan	Ateş
+289	Aycan	ATLI
 2429	Enes	AYDIN
 507	Sevdenur	Baloglu
 1736	Beyza	Bozdemir
@@ -30,3 +31,4 @@
 1362	Tayfun	tayfuncesur35@hotmail.com
 1608	ece 	ekmekçi
 1330    Selen 	Selen	Ünal
+390	Mehmet Can DEMİREL

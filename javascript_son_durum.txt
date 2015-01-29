@@ -1,13 +1,14 @@
 ﻿*Javascript kursu kabul listesi son durum (27 Ocak - 16:05)*
 
-iptaller Tercih1: tolga-ozkan, ozan-celik, erkan-kutlumuş, ismet-safa-develi, konul-memmedova, nur-gizem-ak
+iptaller Tercih1: mehmet-nurullah-nergiz, tolga-ozkan, ozan-celik, erkan-kutlumuş, ismet-safa-develi, konul-memmedova, nur-gizem-ak
 iptaller Tercih2: mustafa-ozdemir, mehmet-ugur, begum-erden, mert-kahyaoglu, fadime-ilisulu, onur-atak
 ilaveler (listede ilk 2 isim): ozgur-halil-ince (#477), mustafa-kaya (#3202, 2. tercihi olan 3D'ye kabul almış, değiştirmek istiyor)
-teyid veya iptal mesajı atmayanlar (listeye dahil edilmedi): serdar-aydar, nejat-gursel
+teyid veya iptal mesajı atmayan (listeye dahil edilmedi): serdar-aydar 
 tercih 2 kabulleri (listede son 3 isim): rahime-ozgonul, ali-tuncer, burak-uysal
 
 Liste:
 
+nejat-gursel
 mustafa-kaya 
 ozgur-halil-ince 
 emre-muratoglu
@@ -49,7 +50,6 @@ ali-acer
 ozge-yuceer 
 ismail-ercan 
 kadir-ay 
-mehmet-nurullah-nergiz 
 yusuf-gok 
 ismail-bicer 
 oktay-yarar 

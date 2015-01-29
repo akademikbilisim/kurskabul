@@ -20,7 +20,6 @@ Enes Kıdık
 Ensar Kovankaya
 Erhan Gülşen
 Ertuğ Takıl
-Fahrettin Erdinç
 Feray Güler
 Ferdi Şener
 Fidan Garaylı
@@ -28,9 +27,9 @@ Gökmen Öztürk
 Gülcan Ocak
 Hacer Berkil
 Halil Furkan Karataş
-Halime Bozkır
 Hasan Hüseyin Işık
 İhsan Önal
+İhsan Küçükaycan
 İlknur Kaynarca
 Mahmut Savur
 Mehmet Turşucu
@@ -41,7 +40,6 @@ Nazlı Ayaz
 Nazlıcan Kılıç
 Nurullah Yılmaz
 Oktay Karanfil
-Otağ Orçun Hangül
 Ömer Edip Aslantaş
 Özgül Gözaçanlar
 Pembe Begül Güner

@@ -11,8 +11,6 @@
 1975	Ali	Aşkın
 1093	Hüseyin Utku	ASLAN
 3232	KADRİ	ATLI
-289	Aycan	ATLI
-2429	Enes	AYDIN
 94	Ezgi	AYDOĞDU
 1789	Sencer Umut	Balkan
 2821	Ahmet	Bayram
@@ -61,12 +59,10 @@
 1977	Nazlı	NAZLI
 1654	Merve	Öğünç
 1654	Merve	Öğünç
-1987	Selin	ÖNAL
 2043	Mustafa Nevzat	ÖRNEK
 3124	Zeyneddin	Öz
 1996	Muhammed Ahmet	Özay
 1655	Betül Aşkın	Özdemir
-2727	Duygu	Özden
 527	Harun Fatih	Özkal
 2475	Şeref Can	ÖZKAYA
 2399	Deniz	ÖZKAYALAR
@@ -81,10 +77,8 @@
 1439	Hande Didar	Sözbir
 1440	Ezgi Gamze	TEKBAŞ
 3222	İSMAİL	TOPALEL
-3197	CEYDA GAMZE	TOSUN
 69	Anıl Osman	Tur
 3115	Mehmet Cengiz	TURANLI
-2227	Hüseyin	Türkmenoğlu
 1949	AHMET	ÜLGER
 1979	Emrullah	Uluışık
 876	Fethi	Ulusoy
@@ -98,3 +92,5 @@
 3255	Onur	YORULMAZ
 2507	ZARİF	ZUBAROĞLU
 2432	Caner	BAŞER
+      Ezgi Sert 
+      Mustafa ÇALIK
