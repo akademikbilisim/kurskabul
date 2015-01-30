@@ -24,7 +24,6 @@
 1512	Erkan	Uslu
 1607	Büşra	Uzun
 2476	Merve	YILDIZ
-1606	Haydar Altuğ	Yıldırım
 188	Büşra	Yılmaz
 2031	Eren	Yüksel
 519	Mustafa	canturkm@itu.edu.tr
